@@ -1,0 +1,15 @@
+﻿flask first commit
+#
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   bmi.py
+#	new file:   bmi_jedna_linia.py
+#	new file:   moj_pierwsz_skrypt.py
+#	new file:   new.py
+#
+
